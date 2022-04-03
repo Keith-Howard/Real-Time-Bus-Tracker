@@ -2,7 +2,7 @@
 const dataArray = [];
   
   // TODO: add your own access token
-mapboxgl.accessToken = 'pk.eyJ1Ijoia2VpdGh3aG93YXJkODgiLCJhIjoiY2wxaDU1YzloMDRmaDNpczZldW0zZW13bCJ9.2T2zJ7CVDJwYp_cT5vXf3A';
+mapboxgl.accessToken = ' '; // add your Mapbox token into this string
 
 let startLat = 42.359244;
 let startLng = -71.093729;
