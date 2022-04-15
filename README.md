@@ -1,4 +1,6 @@
 # Real-Time-Bus-Tracker
+<img src="bostonMapScreenshot.JPG" width='300'/>
+
 While in the city of Boston you can see all bus stops in a mile radius when given starting longitude and latitude coordinates
 Originally the program provided you all of the bus stops between one point and another. This program now will look at a radius around your current location and tell you where all of the bus stops are. 
 A request is made to get the longitude and latitudes of the bus stops in a mile radius and then markers are created on the map.
